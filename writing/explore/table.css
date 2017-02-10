@@ -1,0 +1,52 @@
+  body {
+	background-color: #4b4b4b;
+	color: #000066;
+}
+ :link {
+	color:  #d6ccab;
+	background-color : transparent;
+}
+ :visited {
+	color: #989c74;
+	background-color : transparent;
+}
+ :active {
+	color: #9999cc;
+	background-color : transparent;
+}
+td {
+	font-family : "Comic Sans MS",helvetica,arial,sans-serif;
+	vertical-align : top;
+}
+td.main {
+	background-color : White;
+	color : #000000;
+	background-image : url(images/p_m.gif);
+}
+td.left {
+	background-image : url(images/p_l.gif);
+}
+td.right {
+	background-image : url(images/p_r.gif);
+}
+td.top {
+	background-image : url(images/p_tm.gif);
+}
+td.bot {
+	background-image : url(images/p_bm.gif);
+}
+td.cont {
+	background-color : #e2e2c4;
+	color : #000066;
+	font-size : 80%;
+}
+td.titl{
+	background-color : #cecea9;
+	color : #000066;
+	font-size : 80%;
+	font-weight : bold;
+}
+div.link {
+	font-family: helvetica,arial,sans-serif;
+	text-align : right;
+}

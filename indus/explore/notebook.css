@@ -1,0 +1,62 @@
+  body {
+	background-color: #b9b0a5;
+	color: black;
+	padding-top : 0px;
+}
+ :link {
+	color: #840000;
+	background-color : transparent;
+}
+ :visited {
+	color: #590000;
+	background-color : transparent;
+}
+ :active {
+	color: Red;
+	background-color : transparent;
+}
+td {
+	font-family: helvetica,arial,sans-serif;
+	vertical-align : top;
+}
+td.main {
+	background-color : White;
+	color : #000066;
+	background-image : url(images/n_main.gif);
+}
+td.left {
+	background-image : url(images/n_ring.gif);
+}
+td.right {
+	background-image : url(images/n_r.gif);
+}
+font.titles {
+	font-family : Courier, monospace,"Courier New";
+	color : Black;
+	font-size : 80%;
+}
+td.pic {
+	background-color : White;
+	color : #000066;
+	font-family : "Comic Sans MS";
+	font-size : 80%;
+	background-image : url(images/bg_white.gif);
+}
+td.p_edge {
+	background-color : White;
+	background-image : url(images/bg_white.gif);
+}
+td.p_edge2 {
+	background-color : White;
+	background-image : url(images/bg_p.gif);
+}
+div.text {
+	color : #000066;
+	font-family : "Comic Sans MS";
+	font-size : 80%;
+}
+td.inx {
+	color : #000066;
+	font-family : "Comic Sans MS";
+	font-size : 80%;
+}

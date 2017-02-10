@@ -1,0 +1,25 @@
+  body {
+	background-color: #9d7f7f;
+	color: black;
+}
+ :link {
+	color: #7f6161;
+	background-color : transparent;
+}
+ :visited {
+	color: #6c4949;
+	background-color : transparent;
+}
+ :active {
+	color: #868b8b;
+	background-color : transparent;
+}
+td {
+	font-family: helvetica,arial,sans-serif;
+	vertical-align : top;
+}
+TD.main {
+	background-color : #d6cfcf;
+	width : 420px;
+	color : Black;
+}

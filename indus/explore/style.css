@@ -1,0 +1,36 @@
+  body {
+	background-color: #b9b0a5;
+	color: black;
+}
+ :link {
+	color: #840000;
+	background-color : transparent;
+}
+ :visited {
+	color: #590000;
+	background-color : transparent;
+}
+ :active {
+	color: Red;
+	background-color : transparent;
+}
+td {
+	font-family: arial,helvetica,sans-serif;
+	vertical-align : top;
+}
+td.main {
+	background-color : #d6d0c9;
+	color : Black;
+	width : 420px;
+}
+td.dk {
+	background-color : #d6d0c9;
+	color : Black;
+	background-image : url(images/dk2.gif);
+	width : 420px;
+}
+div.caption {
+	font-size : 75%;
+	text-align : center;
+	color : Gray;
+}

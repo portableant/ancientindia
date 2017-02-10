@@ -1,0 +1,1 @@
+_magVar1=2&_magVar2=4&image1=swfs/ps345984_small.swf&image2=swfs/ps345984_large.swf&hex=0x000000&max_zoom=200&DATA=l_oaded

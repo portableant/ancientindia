@@ -1,0 +1,46 @@
+  body {
+	background-color: #4b4b4b;
+	color: #000066;
+}
+ :link {
+	color: #840000;
+	background-color : transparent;
+}
+ :visited {
+	color: #590000;
+	background-color : transparent;
+}
+ :active {
+	color: Red;
+	background-color : transparent;
+}
+td {
+	font-family : "Comic Sans MS",helvetica,arial,sans-serif;
+	vertical-align : top;
+}
+td.main {
+	background-color : White;
+	color : #000066;
+	background-image : url(images/theory_m.jpg);
+}
+td.left {
+	background-image : url(images/theory_l.gif);
+}
+td.right {
+	background-image : url(images/theory_r.gif);
+}
+td.cont {
+	background-color : #e2e2c4;
+	color : #000066;
+	font-size : 80%;
+}
+td.titl{
+	background-color : #cecea9;
+	color : #000066;
+	font-size : 80%;
+	font-weight : bold;
+}
+div.link {
+	font-family: helvetica,arial,sans-serif;
+	text-align : right;
+}

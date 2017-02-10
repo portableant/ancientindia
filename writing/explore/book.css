@@ -1,0 +1,35 @@
+  body {
+	background-color: #4b4b4b;
+	color: #000000;
+}
+ :link {
+	color: #840000;
+	background-color : transparent;
+}
+ :visited {
+	color: #590000;
+	background-color : transparent;
+}
+ :active {
+	color: Red;
+	background-color : transparent;
+}
+
+td {
+	font-family : helvetica,arial,sans-serif;
+	vertical-align : top;
+}
+td.main {
+	background-color : White;
+	color : #000000;
+	background-image : url(images/book2_m.jpg);
+}
+td.left {
+	background-image : url(images/book2_l2.jpg);
+}
+td.right {
+	background-image : url(images/book2_r2.jpg);
+}
+h3 {
+	text-align : center;
+}

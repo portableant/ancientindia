@@ -1,0 +1,28 @@
+ body {
+	background-color: #6d7692;
+	color: black;
+	background-image : url(../images/bg_cir.gif);
+}
+ :link {
+	color: #840000;
+	background-color : transparent;
+}
+ :visited {
+	color: #590000;
+	background-color : transparent;
+}
+ :active {
+	color: Red;
+	background-color : transparent;
+}
+td {
+	font-family: helvetica,arial,sans-serif;
+}
+td.main {
+	background-color : #c4c7d0;
+	width : 420px;
+	color : Black;
+}
+h3 {
+	text-align : center;
+}

@@ -1,0 +1,50 @@
+
+<html>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Test</title>
+<!-- SWFObject embed by Geoff Stearns geoff@deconcept.com http://blog.deconcept.com/swfobject/ -->
+<script type="text/javascript" src="swfobject.js"></script>
+<style type="text/css">
+	
+	body {
+		background-color: #ffffff;
+		font: .8em/1.3em verdana,arial,helvetica,sans-serif;
+	}
+
+	#info {
+		width: 300px;
+		overflow: auto;
+	}
+
+	#flashcontent {
+		border: solid 1px #000;
+		width: 300px;
+		height: 300px;
+		float: left;
+		margin: 15px 20px;
+	}
+
+</style>
+</head>
+<body bgColor='#eeeeee'>
+
+
+		<div id="player4">
+			Please update your flash player
+		</div>
+
+
+<script type="text/javascript">
+		// <![CDATA[
+		
+		var so4 = new SWFObject("mobile.swf", "player3", "560", "444", "6.0.65", "#FFFFFF");
+		so4.addVariable("filename", getQueryParamValue("filename"));
+		so4.write("player4");
+		
+		// ]]>
+</script>
+</body>
+</html>

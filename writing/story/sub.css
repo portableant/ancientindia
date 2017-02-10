@@ -1,0 +1,22 @@
+ body {
+	background-color: #212121;
+	color: White;
+	font-family : Arial, Helvetica, sans-serif;
+}
+ :link {
+	color:  #d6ccab;
+	background-color : transparent;
+}
+ :visited {
+	color: #989c74;
+	background-color : transparent;
+}
+ :active {
+	color: #9999cc;
+	background-color : transparent;
+}
+TD {
+	font-family : Arial, Helvetica, sans-serif;
+	vertical-align : top;
+	color : White;
+}

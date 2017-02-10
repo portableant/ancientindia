@@ -1,0 +1,29 @@
+  body {
+	background-color: #4b4b4b;
+	color: White;
+	background-image : url(../images/bg.gif);
+}
+ :link {
+	color:  #d6ccab;
+	background-color : transparent;
+}
+ :visited {
+	color: #989c74;
+	background-color : transparent;
+}
+ :active {
+	color: #9999cc;
+	background-color : transparent;
+}
+td {
+	font-family: helvetica,arial,sans-serif;
+	vertical-align : top;
+	width : 420px;
+	color: White;
+}
+td.main {
+	background-color : #212121;
+}
+h3 {
+	text-align : center;
+}

@@ -1,0 +1,1 @@
+area=india,nomaps,7,terrain,m3,politics
